@@ -1,0 +1,19 @@
+Begin program.
+Let user name be the word Alice.
+Let score be the number 0.
+Read a number into score.
+Let total be the number 0.
+If score is greater than 0.
+Set total to score.
+Otherwise.
+Set total to 0.
+End if.
+Define a function named add bonus with the parameters base value and extra value.
+Give back base value plus extra value.
+End function.
+Repeat score times.
+Set total to the result of calling add bonus with total and 5.
+Display total.
+End repeat.
+Print the word done.
+End program.

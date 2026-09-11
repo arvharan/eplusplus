@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="E++ file icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#123E8A"/>
+      <stop offset="100%" stop-color="#0A2356"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#7EE7FF"/>
+      <stop offset="100%" stop-color="#2DCCFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="22" fill="url(#bg)"/>
+  <rect x="26" y="26" width="76" height="76" rx="12" fill="none" stroke="#CFE8FF" stroke-width="4" opacity="0.7"/>
+  <path d="M42 35H84V46H54V57H80V68H54V79H84V90H42V35Z" fill="#FFFFFF"/>
+  <g fill="url(#accent)">
+    <path d="M88 36H94V42H88V36ZM88 45H94V51H88V45ZM88 54H94V60H88V54ZM88 63H94V69H88V63ZM88 72H94V78H88V72Z"/>
+  </g>
+  <path d="M42 96H88" stroke="#7EE7FF" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+</svg>
